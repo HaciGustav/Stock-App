@@ -1,17 +1,17 @@
-# Redux Toolkit Ornegi
+# Redux Toolkit
 
-## `Kurulum`
+## `Install`
 
 ```
-npm install veya yarn
+npm install or yarn
 ```
 
-## `Kullanilan Kutuphaneler`
+## `Used Libraries`
 
-- `@reduxjs/toolkit`
-- `react-redux`
-- `axios`
-- `react-router-dom`
-- `@mui/material-ui`
-- `@emotion/react`
-- `@emotion/styled`
+-   `@reduxjs/toolkit`
+-   `react-redux`
+-   `axios`
+-   `react-router-dom`
+-   `@mui/material-ui`
+-   `@emotion/react`
+-   `@emotion/styled`
